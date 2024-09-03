@@ -1,4 +1,5 @@
-# interview-master-100
+# [interview-master-100](https://instabyte.io/p/interview-master-100)
+
 
 1. [Two Sum](https://leetcode.com/problems/two-sum)
 2. [valid-parentheses](https://leetcode.com/problems/valid-parentheses)
