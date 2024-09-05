@@ -6,3 +6,4 @@
 3. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)
 4. [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 5. [valid-palindrome](https://leetcode.com/problems/valid-palindrome)
+6. [best-time-to-buy-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
