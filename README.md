@@ -7,4 +7,4 @@
 4. [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 5. [valid-palindrome](https://leetcode.com/problems/valid-palindrome)
 6. [best-time-to-buy-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
-7. [valid-palindrome](https://leetcode.com/problems/valid-palindrome)
+7. [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)
