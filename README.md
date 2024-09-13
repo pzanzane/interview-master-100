@@ -8,3 +8,4 @@
 5. [valid-palindrome](https://leetcode.com/problems/valid-palindrome)
 6. [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)
 7. [valid-anagram](https://leetcode.com/problems/valid-anagram)
+8. [binary-search](https://leetcode.com/problems/binary-search)
