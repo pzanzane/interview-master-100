@@ -1,20 +1,8 @@
 package linkedlistcycle;
 
-import java.util.HashMap;
-import java.util.Map;
+import pojo.ListNode;
 
 public class LinkedListCycle {
-
-
-     private static class ListNode {
-         int val;
-         ListNode next;
-         ListNode(int x) {
-             val = x;
-             next = null;
-         }
-     }
-
     public boolean hasCycle(ListNode head) {
 
         if (head == null) {

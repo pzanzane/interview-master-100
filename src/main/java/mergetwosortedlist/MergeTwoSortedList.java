@@ -1,5 +1,7 @@
 package mergetwosortedlist;
 
+import pojo.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -65,35 +67,5 @@ public class MergeTwoSortedList {
         }
 
         return firstNode;
-    }
-
-    public ListNode arrayToLinkedList(int[] array) {
-
-        ListNode node = null;
-        ListNode firstNode = null;
-        for (int value: array) {
-            if (node == null) {
-                node = new ListNode();
-                firstNode = node;
-            } else {
-                node.next = new ListNode();
-                node = node.next;
-            }
-
-            node.val = value;
-        }
-
-        return firstNode;
-    }
-
-    public Integer[] linkedListToArray(ListNode node) {
-        List<Integer> list = new ArrayList<>();
-
-        while (node != null) {
-
-            list.add(node.val);
-            node = node.next;
-        }
-        return list.toArray(Integer[]::new);
     }
 }
