@@ -13,3 +13,4 @@
 10. [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 11. [single-number](https://leetcode.com/problems/single-number)
 12. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)
+13. [majority-element](https://leetcode.com/problems/majority-element)
