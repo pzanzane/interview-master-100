@@ -14,3 +14,4 @@
 11. [single-number](https://leetcode.com/problems/single-number)
 12. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)
 13. [majority-element](https://leetcode.com/problems/majority-element)
+14. [missing-number](https://leetcode.com/problems/missing-number)
