@@ -15,3 +15,5 @@
 12. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)
 13. [majority-element](https://leetcode.com/problems/majority-element)
 14. [missing-number](https://leetcode.com/problems/missing-number)
+15. [reverse-string](https://leetcode.com/problems/reverse-string)
+16. [diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)
