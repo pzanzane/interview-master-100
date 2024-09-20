@@ -21,4 +21,19 @@ class ReverseStringTest {
         // Assert
         Assertions.assertArrayEquals(expected, s);
     }
+
+    @Test
+    void reverseString_test2() {
+
+        // Assign
+        char[] s = {'h', 'e', 'l', 'l'};
+        ReverseString reverseString = new ReverseString();
+        char[] expected = {'l', 'l', 'e', 'h'};
+
+        // Act
+        reverseString.reverseString(s);
+
+        // Assert
+        Assertions.assertArrayEquals(expected, s);
+    }
 }

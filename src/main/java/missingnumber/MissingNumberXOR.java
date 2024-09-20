@@ -1,4 +1,4 @@
-package MissingNumber;
+package missingnumber;
 
 public class MissingNumberXOR {
 

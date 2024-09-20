@@ -1,4 +1,4 @@
-package MissingNumber;
+package missingnumber;
 
 import java.util.HashMap;
 import java.util.Map;
