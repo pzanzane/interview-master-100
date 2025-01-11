@@ -48,7 +48,7 @@ public class MergeSort {
                 leftIndex ++;
             } else {
 
-                sortedArr[newIndex] = leftArr[rightIndex];
+                sortedArr[newIndex] = rightArr[rightIndex];
                 rightIndex ++;
             }
 
@@ -67,7 +67,7 @@ public class MergeSort {
         if (rightIndex < rightSize) {
 
             while (rightIndex < rightSize) {
-                sortedArr[newIndex] = leftArr[rightIndex];
+                sortedArr[newIndex] = rightArr[rightIndex];
                 rightIndex ++;
                 newIndex ++;
             }
